@@ -1,10 +1,10 @@
 #Index
-####Characters(#characters)
+####[Characters](#characters)
 * [Stark](#house-stark)
 * [Lannister](#house-lannister)
-####House Sigils(#house-sigils)
-####Castles(#castles)
-####Battles(#battles)
+####[House Sigils](#house-sigils)
+####[Castles](#castles)
+####[Battles](#battles)
 
  
 
