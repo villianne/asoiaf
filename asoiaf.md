@@ -2,6 +2,8 @@
 ####[Characters](#characters)
 * [Stark](#house-stark)
 * [Lannister](#house-lannister)
+* 
+
 ####[House Sigils](#house-sigils)
 ####[Castles](#castles)
 ####[Battles](#battles)
@@ -26,6 +28,8 @@
 #House Sigils
 ##House Stark Sigils
 * [Stark Wallpaper by Saegima](http://www.fanpop.com/clubs/house-stark/images/23274584/title/house-stark-wallpaper)
+* 
+
 ##House Lannister Sigils
 ##House Stark
 ##House Lannister
