@@ -11,8 +11,9 @@
 #Characters
 ##House Stark
 ####Eddard Stark
-   * [Eddard Stark portrait by Amoka](http://awoiaf.westeros.org/index.php/File:Eddard_Amoka.jpg)
-   * [test](test.html)
+* [Eddard Stark portrait by Amoka](http://awoiaf.westeros.org/index.php/File:Eddard_Amoka.jpg)
+* [test](test.html)
+
    
 
 ####Robb Stark
