@@ -13,6 +13,8 @@
 ####Eddard Stark
    * [Eddard Stark portrait by Amoka](http://awoiaf.westeros.org/index.php/File:Eddard_Amoka.jpg)
    * [Eddard Stark portrait by John Picacio](http://awoiaf.westeros.org/index.php/File:John_Picacio_Ned_Stark.jpg)
+   * 
+   
 
 ####Robb Stark
 
