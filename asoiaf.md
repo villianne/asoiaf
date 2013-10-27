@@ -1,6 +1,7 @@
 #Index
 * [Characters](#characters)
- ** [Eddard Stark](####eddard-stark)
+ * [Eddard Stark](####eddard-stark)
+ * [Robb Stark](####robb-stark)
 * [House Sigils](#house-sigils)
 * [Castles](#castles)
 * [Battles](#battles)
