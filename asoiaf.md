@@ -2,6 +2,7 @@
 ####[Characters](#characters)
 * [Stark](#house-stark-characters)
 * [Lannister](#house-lannister)
+* [Greyjoy](#house-greyjoy-characters)
 * [Outlaw Groups](#outlaw-groups-characters)
 
 ####[House Sigils](#house-sigils)
@@ -25,6 +26,12 @@
 
 ###House Lannister Characters
 ###House Targaryan Characters
+###House Greyjoy Characters
+####Theon Greyjoy
+####Victarion Greyjoy
+* [victarion Greyjoy by Unknown](http://dragoninstall.deviantart.com/art/A-Song-of-Ice-and-Lemoncakes-264481091)
+* 
+
 ###Outlaw Groups Characters
 ####Brotherhood Without Banners
 #####Lady Stoneheart(SPOILER ASOS)
